@@ -1,6 +1,5 @@
-networkx
 streamlit
-matplotlib
+pandas
 
 
 
